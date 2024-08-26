@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusg0liveira/)
 
 ![ViniDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniDev0&show_icons=true&theme=tokyonight)
-![ViniDev Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniDev0&langs_count=5)
 ## Ferramentas e Tecnologias Que Uso No Meu Dia 👇
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
