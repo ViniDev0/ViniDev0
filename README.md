@@ -1,7 +1,7 @@
 ### Ola! Eu sou Vinícius Gomes ✌️
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/524642267164573717)
-[![Gmail](https://img.shields.io/badge/vogomesoliveira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/contato.vini0dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/contato.vini0dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/contato.vini0dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusg0liveira/)
 
 ![ViniDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniDev0&show_icons=true&theme=tokyonight)
