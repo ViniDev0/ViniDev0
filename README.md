@@ -15,3 +15,4 @@
 </div></br>
 
 Apaixonado pela Tecnologia, quero unir meus conhecimentos de Cybersegurança e Engenharia de Software para impactar o mundo!
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3801786" style='border:none;'></iframe>
