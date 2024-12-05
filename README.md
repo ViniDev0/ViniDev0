@@ -14,5 +14,4 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div></br>
 
-Apaixonado pela Tecnologia, quero unir meus conhecimentos de Cybersegurança e Engenharia de Software para impactar o mundo!
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3801786" style='border:none;'></iframe>
+Apaixonado pela Tecnologia, quero unir meus conhecimentos de Cybersegurança e Engenharia de Software para impactar o mundo
