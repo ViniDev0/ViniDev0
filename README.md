@@ -16,4 +16,4 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
 
-Apaixonado pela Tecnologia, quero unir meus conhecimentos de Cybersegurança e Engenharia de Software para impactar o mundo
+Eai! Bora codar 👨‍💻
