@@ -1,18 +1,43 @@
-### Ola! Eu sou Vinícius Gomes ✌️
+# ⚡ Vinicius Gomes | Red Teamer & Bug Hunter 🛡️
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/524642267164573717)
-[![Gmail](https://img.shields.io/badge/contato.vini0dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/contato.vini0dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusg0liveira/)
+### "Finding the needle in the haystack, then burning the stack."
 
-## Ferramentas e Tecnologias Que Uso No Meu Dia 👇
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div></br>
+---
 
-Eai! Bora codar 👨‍💻
+## 🚀 About Me
+- 🎯 **Primary Focus:** Web Application Security & API Pentesting.
+- 🐛 **Active Bug Hunter**
+- 🎓 **Certifications:** DCPT (In Progress), 
+
+---
+
+## 🛠️ Cyber Stack & Toolbelt
+### 💻 Languages & Scripting
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bash,python,c,go" />
+</a>
+</p>
+
+### 🛡️ Security Tools
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,docker,aws,postman," />
+</a>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-999999?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
+
+---
+
+## 📬 Get In Touch
+<p align="left">
+<a href="https://www.linkedin.com/in/viniciusg0liveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:contato.vini0dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Hack the planet."</i><br>
+  <img src="https://komarev.com/ghpvc/?username=ViniDev0&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
