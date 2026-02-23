@@ -22,7 +22,7 @@
 ### 🛡️ Security Tools
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,docker,aws,postman," />
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,docker,aws,postman" />
 </a>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-999999?style=for-the-badge&logo=metasploit&logoColor=white" />
